@@ -1,1 +1,1 @@
-# Smart Contract Development and Research
+# Smart Contract Research
